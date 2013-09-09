@@ -1,3 +1,9 @@
+# ABANDONNED A LONG TIME AGO
+
+Don't use it, there's nothing interesting here.
+
+***
+
 # ZEPTO MOBILE
 
 A UI and mobile framework based on [Zepto](http://zeptojs.com/) and [Backbone](http://documentcloud.github.com/backbone/). The goal is to reproduce something similar to [jQuery Mobile](http://jquerymobile.com/) but more lightweight, since the combo Zepto+Backbone is much lighter than jQuery+jQueryMobile.
